@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=2800&pause=900&color=D8C7FF&center=true&vCenter=true&width=760&lines=Desenvolvedora+cyber-bruxa+sob+céu+iluminado;Construindo+sistemas+na+hora+das+bruxas;Onde+a+natureza+encontra+o+terminal;Criando+interfaces+atmosféricas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=2800&pause=900&color=D8C7FF&center=true&vCenter=true&width=760&lines=Cyber-witch+developer+under+moonlit+sky;Building+systems+in+the+witching+hour;Where+nature+meets+terminal;Crafting+atmospheric+interfaces" />
 </p>
 
 <p align="center">
