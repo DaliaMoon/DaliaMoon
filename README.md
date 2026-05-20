@@ -120,8 +120,11 @@ Gosto de criar projetos que misturam engenharia, criatividade e identidade visua
 ## ✧ GitHub Constellations
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DaliaMoon&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0b0711&title_color=d8c7ff&text_color=c8c3d6&icon_color=9d4edd&rank_icon=github"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=DaliaMoon&theme=midnight-purple&hide_border=true&background=0B0711&ring=D8C7FF&fire=8B1E3F&currStreakLabel=D8C7FF"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=DaliaMoon&theme=midnight-purple&hide_border=true&background=0B0711&ring=D8C7FF&fire=D6A84F&currStreakLabel=D8C7FF&sideLabels=F8EDC6&dates=C8C3D6"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DaliaMoon&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0b0711&title_color=d8c7ff&text_color=c8c3d6&icon_color=d6a84f&rank_icon=github"/>
 </p>
 
 <p align="center">
