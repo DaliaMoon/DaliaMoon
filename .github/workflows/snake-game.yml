@@ -38,13 +38,18 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          # Checkout ou criar branch output
-          git fetch origin output 2>/dev/null || echo "Branch output não existe ainda"
-          git checkout --orphan output 2>/dev/null || git checkout output
+          # Criar ou fazer checkout da branch output
+          if git rev-parse --verify origin/output >/dev/null 2>&1; then
+            git checkout output
+          else
+            git checkout --orphan output
+            git rm -rf .
+          fi
           
           # Copiar arquivos gerados
-          cp dist/github-contribution-grid-snake.svg github-contribution-grid-snake.svg
-          cp dist/github-contribution-grid-snake-dark.svg github-contribution-grid-snake-dark.svg
+          mkdir -p dist
+          cp dist/github-contribution-grid-snake.svg . 2>/dev/null || true
+          cp dist/github-contribution-grid-snake-dark.svg . 2>/dev/null || true
           
           # Fazer commit
           git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
