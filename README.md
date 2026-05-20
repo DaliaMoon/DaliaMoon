@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:08030f,25:21053d,50:4b0f7a,75:7b3fb2,90:d6a84f,100:f5d76e&text=The%20Terminal%20Garden&fontColor=f8edc6&fontSize=58&fontAlignY=38&desc=c%C3%B3digo%20%E2%80%A2%20moonlight%20%E2%80%A2%20rituais%20digitais&descAlignY=58&descSize=18&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:08030f,25:21053d,50:4b0f7a,75:7b3fb2,90:d6a84f,100:f5d76e&text=The%20Terminal%20Garden&fontColor=f8edc6&fontSize=58&fontAlignY=40"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=2800&pause=900&color=D8C7FF&center=true&vCenter=true&width=760&lines=Cyber-witch+developer+under+moonlit+servers;Transformando+ideias+em+rituais+digitais;Python%2C+IA%2C+cybersecurity+and+moonlight;Entre+florestas%2C+terminais+e+sistemas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=2800&pause=900&color=D8C7FF&center=true&vCenter=true&width=760&lines=Cyber-witch+developer+under+moonlit+skies"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4200&pause=900&color=0B5D3B&center=true&vCenter=true&width=960&lines=01000001+01101100+01100111+01110101+01101110+01110011+00100000+01110011+01101001+01110011+01110100+01100101+01101101+01100001+01110011+00100000+01110011+11000011+10100011+01101111+00100000+01100011+01101111+01101110+01110011+01110100+01110010+01110101+11000011+10101101+01100100+01101111+01110011+00101110;01001111+01110101+01110100+01110010+01101111+01110011+00100000+01110011+11000011+10100011+01101111+00100000+01101001+01101110+01110110+01101111+01100011+01100001+01100100+01101111+01110011+00101110" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4200&pause=900&color=0B5D3B&center=true&vCenter=true&width=960&lines=01000001+01101100+01100111+01101111+01110010+01101001+01110100+01101000+01101101"/>
 </p>
 <p align="center">
 ☾ ✦ ✧ 🕯 ⚝ 🖤 ⚝ 🕯 ✧ ✦ ☾
@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Instagram-2b0f3f?style=for-the-badge&logo=instagram&logoColor=f5f1ff"/>
   </a>
   <a href="https://x.com/mathairsoul_">
-    <img src="https://img.shields.io/badge/Twitter-1a0d2e?style=for-the-badge&logo=x&logoColor=d8c7ff"/>
+    <img src="https://img.shields.io/badge/X-1a0d2e?style=for-the-badge&logo=x&logoColor=d8c7ff"/>
   </a>
   <a href="https://br.pinterest.com/HikaruDalia/">
     <img src="https://img.shields.io/badge/Pinterest-5b1024?style=for-the-badge&logo=pinterest&logoColor=f5f1ff"/>
@@ -120,11 +120,11 @@ Gosto de criar projetos que misturam engenharia, criatividade e identidade visua
 ## ✧ GitHub Constellations
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=DaliaMoon&theme=midnight-purple&hide_border=true&background=0B0711&ring=D8C7FF&fire=D6A84F&currStreakLabel=D8C7FF&sideLabels=F8EDC6&dates=C8C3D6"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=DaliaMoon&theme=midnight-purple&hide_border=true&background=0B0711&ring=D8C7FF&fire=D6A84F&currStreakLabel=D8C7FF&sideLabels=DD5733,DD5733"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DaliaMoon&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0b0711&title_color=d8c7ff&text_color=c8c3d6&icon_color=d6a84f&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DaliaMoon&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0b0711&title_color=d8c7ff&text_color=c8c3d6&icon_color=d6a84f"/>
 </p>
 
 <p align="center">
