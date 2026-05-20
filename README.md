@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:08030f,25:21053d,50:4b0f7a,75:7b3fb2,90:d6a84f,100:f5d76e&text=The%20Terminal%20Garden&fontColor=f8edc6&fontSize=58&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:08030f,25:21053d,50:4b0f7a,75:7b3fb2,90:d6a84f,100:f5d76e&text=The%20Terminal%20Garden&fontColor=f8edc6&fontSize=58&fontAlign=50"/>
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4200&pause=900&color=0B5D3B&center=true&vCenter=true&width=960&lines=01000001+01101100+01100111+01101111+01110010+01101001+01110100+01101000+01101101"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4200&pause=900&color=0B5D3B&center=true&vCenter=true&width=960&lines=01000001+01101100+01100111+01101111+01101001+01110100+01101101+01110011"/>
 </p>
 <p align="center">
 ☾ ✦ ✧ 🕯 ⚝ 🖤 ⚝ 🕯 ✧ ✦ ☾
@@ -120,7 +120,7 @@ Gosto de criar projetos que misturam engenharia, criatividade e identidade visua
 ## ✧ GitHub Constellations
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=DaliaMoon&theme=midnight-purple&hide_border=true&background=0B0711&ring=D8C7FF&fire=D6A84F&currStreakLabel=D8C7FF&sideLabels=DD5733,DD5733"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=DaliaMoon&theme=midnight-purple&hide_border=true&background=0B0711&ring=D8C7FF&fire=D6A84F&currStreakLabel=D8C7FF&sideLabels=D8C7FF&dates=C8C3D6"/>
 </p>
 
 <p align="center">
