@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=2800&pause=900&color=D8C7FF&center=true&vCenter=true&width=760&lines=Cyber-witch+developer+under+moonlit+sky;Building+systems+in+the+witching+hour;Where+nature+meets+terminal;Crafting+atmospheric+interfaces" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=2800&pause=900&color=D8C7FF&center=true&vCenter=true&width=760&lines=Desenvolvedora+cyber-bruxa+sob+céu+iluminado;Construindo+sistemas+na+hora+das+bruxas;Onde+a+natureza+encontra+o+terminal;Criando+interfaces+atmosféricas" />
 </p>
 
 <p align="center">
@@ -98,26 +98,26 @@ Gosto de criar projetos que misturam engenharia, criatividade e identidade visua
   <tr>
     <td width="50%">
       <h3 align="center">☾ Lunar Interface</h3>
-      <p align="center">Atmospheric UI focused on elegance and immersion.</p>
+      <p align="center">Interface atmosférica focada em elegância e imersão.</p>
     </td>
     <td width="50%">
       <h3 align="center">⚝ Nocturne Engine</h3>
-      <p align="center">AI systems, automation and silent architecture.</p>
+      <p align="center">Sistemas de IA, automação e arquitetura silenciosa.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3 align="center">✧ Velvet Terminal</h3>
-      <p align="center">Developer tools forged for speed and midnight rituals.</p>
+      <p align="center">Ferramentas de desenvolvedor forjadas para velocidade e rituais noturnos.</p>
     </td>
     <td width="50%">
       <h3 align="center">🕯 Garden of Signals</h3>
-      <p align="center">Nature, fantasy visuals and digital experimentation.</p>
+      <p align="center">Natureza, visuais fantásticos e experimentação digital.</p>
     </td>
   </tr>
 </table>
 
-## ☾ Contribution Snake
+## ☾ Serpente de Contribuição
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DaliaMoon/DaliaMoon/output/github-contribution-grid-snake-dark.svg"/>
@@ -127,16 +127,16 @@ Gosto de criar projetos que misturam engenharia, criatividade e identidade visua
 
 <p align="center">
   <a href="mailto:leticiamendes.alighieri@outlook.com">
-    <img src="https://img.shields.io/badge/Send%20a%20Raven-5b1024?style=for-the-badge&logo=gmail&logoColor=f5f1ff"/>
+    <img src="https://img.shields.io/badge/Enviar%20um%20Corvo-5b1024?style=for-the-badge&logo=gmail&logoColor=f5f1ff"/>
   </a>
   <a href="https://www.instagram.com/mathairsoul_/">
-    <img src="https://img.shields.io/badge/Moonlight%20Gallery-2b0f3f?style=for-the-badge&logo=instagram&logoColor=f5f1ff"/>
+    <img src="https://img.shields.io/badge/Galeria%20Moonlight-2b0f3f?style=for-the-badge&logo=instagram&logoColor=f5f1ff"/>
   </a>
   <a href="https://x.com/mathairsoul_">
-    <img src="https://img.shields.io/badge/Midnight%20Signals-0b0711?style=for-the-badge&logo=x&logoColor=c8c3d6"/>
+    <img src="https://img.shields.io/badge/Sinais%20Noturnos-0b0711?style=for-the-badge&logo=x&logoColor=c8c3d6"/>
   </a>
   <a href="https://br.pinterest.com/HikaruDalia/">
-    <img src="https://img.shields.io/badge/Fantasy%20Archive-3b1025?style=for-the-badge&logo=pinterest&logoColor=f5f1ff"/>
+    <img src="https://img.shields.io/badge/Arquivo%20de%20Fantasia-3b1025?style=for-the-badge&logo=pinterest&logoColor=f5f1ff"/>
   </a>
 </p>
 
